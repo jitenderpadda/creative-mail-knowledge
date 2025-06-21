@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: images/creative-high-resolution-color-logo.png
 coverY: 0
 layout:
   cover:
