@@ -50,16 +50,14 @@ for (BeeFree\_\_BeeFree\_Template\_\_c bfTemplate : bfTemplateList) {
 insert cmTemplateList;
 ```
 
-5.  Click on execute\
-
-
-    <figure><img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43384553111/original/-ClXF7DeVMh_hBkpRhVOEyqo1jWfhXn-Hw.png?1673489449" alt=""><figcaption></figcaption></figure>
+5. Click on execute  
+   ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43384553111/original/-ClXF7DeVMh_hBkpRhVOEyqo1jWfhXn-Hw.png?1673489449)
 6. The last step you will need to perform is to go into each Creative Mail Template, click on the **Edit Template in Builder** button and then hit save in order to generate the new Lightning Email Template.
 
 Please make sure to update the merge fields since the merge field syntax is different for Lightning Email Templates.
 
-**NOTE:**&#x20;
+**NOTE:**
 
 Please ensure to update the Creative Mail Template names as they need to be unique and will be appended with 'clone' during the migration process.
 
-Feel free to reach out to us if you have any issues at [contact@codejinn.in](http://contact@codejinn.in)
+Feel free to reach out to us if you have any issues at [Contact Support](mailto:support@creativemail.io)
