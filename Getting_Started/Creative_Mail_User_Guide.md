@@ -1,5 +1,3 @@
-# Creative Mail User Guide
-
 # Getting Started
 
 Installation and setup is a very straightforward process and only takes around 10 minutes,
