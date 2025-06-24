@@ -9,6 +9,6 @@ To resolve this issue, navigate to **Setup** ->**Session Settings**
 5. Paste this domain in the **Domain field** and the iFrame Type should be visualforce
 6. **Save**
 
-**![](../images/knowledge/email-preview-vf-error/uwCkW0aBw0Naw96gYZutlAwmXHxLTUpPXw.png)**
+![](../images/knowledge/email-preview-vf-error/uwCkW0aBw0Naw96gYZutlAwmXHxLTUpPXw.png)
 
 The Email Preview page should now load correctly.
