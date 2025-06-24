@@ -1,17 +1,13 @@
-# Migrating from BeeFree app to Creative Mail app
+# Migrating from BeeFree to Creative Mail
 
-The Creative Mail app is a more refined version of the BeeFree app and uses new Salesforce features such as Lightning Email Templates. Because of this during migration you will need to create new Email Templates from the existing ones but no need to worry, in order to make your lives simpler, we have created a nifty little script that will do most of the handling for you.  
-  
-Just follow the simple steps mentioned below -  
-  
+The Creative Mail app is a more refined version of the BeeFree app and uses new Salesforce features such as Lightning Email Templates. Because of this during migration you will need to create new Email Templates from the existing ones but no need to worry, in order to make your lives simpler, we have created a nifty little script that will do most of the handling for you.
 
+Just follow the simple steps mentioned below -
 
-1. First, ensure that you have installed and set up [Creative Mail](https://creativemail.freshdesk.com/support/solutions/articles/43000692168-creative-mail-user-guide)
+1. First, ensure that you have installed and set up [Creative Mail](https://creativemail.gitbook.io/knowledge/getting-started/creative_mail_user_guide)
 2. Click on the gear icon on the top right and open the Developer Console
 3. From the menu click on Debug and select Open Execute Anonymous Window
-4. Copy and paste the snippet below to copy over your BeeFree Templates onto your new Creative Mail Templates  
-
-
+4. Copy and paste the snippet below to copy over your BeeFree Templates onto your new Creative Mail Templates
 
 ```
 List<creativemail\_\_Creative\_Mail\_Template\_\_c> cmTemplateList = new List<creativemail\_\_Creative\_Mail\_Template\_\_c>();
@@ -54,29 +50,16 @@ for (BeeFree\_\_BeeFree\_Template\_\_c bfTemplate : bfTemplateList) {
 insert cmTemplateList;
 ```
 
-5. Click on execute  
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43384553111/original/-ClXF7DeVMh_hBkpRhVOEyqo1jWfhXn-Hw.png?1673489449)
-6. The last step you will need to perform is to go into each Creative Mail Template, click on the **Edit Template in Builder** button and then hit save in order to generate the new Lightning Email Template.  
-  
+5.  Click on execute\
+
+
+    <figure><img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43384553111/original/-ClXF7DeVMh_hBkpRhVOEyqo1jWfhXn-Hw.png?1673489449" alt=""><figcaption></figcaption></figure>
+6. The last step you will need to perform is to go into each Creative Mail Template, click on the **Edit Template in Builder** button and then hit save in order to generate the new Lightning Email Template.
+
 Please make sure to update the merge fields since the merge field syntax is different for Lightning Email Templates.
 
-  
-
-
-**NOTE:**   
-  
-
+**NOTE:**&#x20;
 
 Please ensure to update the Creative Mail Template names as they need to be unique and will be appended with 'clone' during the migration process.
 
-  
-
-
 Feel free to reach out to us if you have any issues at [contact@codejinn.in](http://contact@codejinn.in)
-
-  
-
-
-  
-
-
