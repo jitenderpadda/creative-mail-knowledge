@@ -10,5 +10,6 @@ To resolve this issue, navigate to **Setup** ->**Session Settings**
 6. **Save**
 
 ![](../images/knowledge/email-preview-vf-error/uwCkW0aBw0Naw96gYZutlAwmXHxLTUpPXw.png)
+![](../images/knowledge/user-guide/OxBF4FAP3Wm-MLe05bQ2_hBb6kCmWdZ6dA.png)
 
 The Email Preview page should now load correctly.
