@@ -1,17 +1,7 @@
-# Table of contents
+# Summary
 
-- [Welcome](README.md)
-
-## Getting Started
-
-- [Quickstart](getting-started/quickstart.md)
-- [Publish your docs](getting-started/publish-your-docs.md)
-
-## FAQ
-
-- [Editor](basics/editor.md)
-- [Markdown](basics/markdown.md)
-- [Images & media](basics/images-and-media.md)
-- [Interactive blocks](basics/interactive-blocks.md)
-- [OpenAPI](basics/openapi.md)
-- [Integrations](basics/integrations.md)
+* [Creative Mail User Guide](Getting_Started/Creative_Mail_User_Guide.md)
+* [Changes to HTML do not reflect in the Editor](Help_Articles/Changes_to_HTML_do_not_reflect_in_the_Editor.md)
+* [Migrating from BeeFree app to Creative Mail app](Help_Articles/Migrating_from_BeeFree_app_to_Creative_Mail_app.md)
+* [Sandbox Refresh](Help_Articles/Sandbox_Refresh.md)
+* [Email Preview shows “{DOMAIN}.vf.force.com refused to connect” error](Help_Articles/Email_Preview_shows_“{DOMAIN}.vf.force.com_refused_to_connect”_error.md)
