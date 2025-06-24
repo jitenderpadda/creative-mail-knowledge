@@ -2,7 +2,7 @@
 
 Installation and setup is a very straightforward process and only takes around 10 minutes,
 
-1. The first step is to install the Creative Mail app from the appexchange - [https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000RMeiuEAD](https://appexchange.salesforce.com/listingDetail?listingId=a0N3u00000RMeiuEAD)
+1. The first step is to install the Creative Mail app from the appexchange - [Creative Mail Appexchange](https://creativemail.io)
 
 <div data-full-width="false"><img src="../images/knowledge/user-guide/OxBF4FAP3Wm-MLe05bQ2_hBb6kCmWdZ6dA.png" alt=""></div>
 
@@ -24,8 +24,6 @@ Installation and setup is a very straightforward process and only takes around 1
 
 ![NOTE: Special characters are not allowed for the name](../images/knowledge/user-guide/YXtFMVXUFzKfL9YZitSCLpMM4avjQhNmxQ.png)
 
-
-
 6. Once you navigate to the Creative Mail Template record page, you can update basic template details by clicking on the **pencil icon**
 
 ![](../images/knowledge/user-guide/B49CVodlBsoM_gRKEiE280iyaqHrx-sjWA.png)
@@ -37,8 +35,6 @@ Installation and setup is a very straightforward process and only takes around 1
 ![](../images/knowledge/user-guide/wrmMsu9UOUlqxcwrAtqYG4W6KbmH31jRTw.png)
 
 <figure><img src="../images/knowledge/user-guide/hk8FjGm3RGuV0ERzdQMnEdyPsdJv4AbnHA.png" alt=""><figcaption><p><strong>NOTE</strong>: Merge tags can be accessed via the Text editor by typing @</p></figcaption></figure>
-
-
 
 8. Once you're done oozing all your creativity on your perfect email design, you can hit **Save** and view the Email Template that you have created. \
    The link to the Lightning Email Template will also be displayed on the record page.
