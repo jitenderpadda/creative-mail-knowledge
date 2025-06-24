@@ -51,7 +51,7 @@ insert cmTemplateList;
 ```
 
 5. Click on execute  
-   ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43384553111/original/-ClXF7DeVMh_hBkpRhVOEyqo1jWfhXn-Hw.png?1673489449)
+   ![](../images/knowledge/migrating-from-beefree/-ClXF7DeVMh_hBkpRhVOEyqo1jWfhXn-Hw.png?1673489449)
 6. The last step you will need to perform is to go into each Creative Mail Template, click on the **Edit Template in Builder** button and then hit save in order to generate the new Lightning Email Template.
 
 Please make sure to update the merge fields since the merge field syntax is different for Lightning Email Templates.
