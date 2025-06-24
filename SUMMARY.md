@@ -1,6 +1,5 @@
 # Summary
 
-- [Getting Started](README.md)
 - Getting Started
   - [Creative Mail User Guide](Getting_Started/Creative_Mail_User_Guide.md)
 - Help Articles
