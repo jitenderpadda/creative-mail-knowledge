@@ -9,6 +9,6 @@ To resolve this issue, navigate to **Setup** ->**Session Settings**
 5. Paste this domain in the **Domain field** and the iFrame Type should be visualforce
 6. **Save**
 
-**![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43483311306/original/uwCkW0aBw0Naw96gYZutlAwmXHxLTUpPXw.png?1714687548)**
+**![](../images/knowledge/email-preview-vf-error/uwCkW0aBw0Naw96gYZutlAwmXHxLTUpPXw.png?1714687548)**
 
 The Email Preview page should now load correctly.
