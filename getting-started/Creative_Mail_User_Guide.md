@@ -14,7 +14,7 @@ Installation and setup is a very straightforward process and only takes around 1
 
 3. Once installation is complete, you need to ensure that you have assigned your user(s) with the Permission set - **Creative Mail User**
 
-![](../images/knowledge/user-guide/43385213485/j3J1RxcbgZ0sl4fHJ3KpMs3aXe87k5FeLA.png)
+![](../images/knowledge/user-guide/j3J1RxcbgZ0sl4fHJ3KpMs3aXe87k5FeLA.png)
 
 4. Next step is to go the Creative Mail app by searching for the app from the **App Launcher**and navigate to the Creative Mail Templates tab
 
