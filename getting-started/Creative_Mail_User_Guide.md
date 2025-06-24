@@ -40,8 +40,6 @@ Installation and setup is a very straightforward process and only takes around 1
 
 **NOTE**: Merge tags can be accessed via the Text editor
 
-
-
 8. Once you're done oozing all your creativity on your perfect email design, you can hit **Save** and view the Email Template that you have created.
 
 The link to the Lightning Email Template will also be displayed on the record page.
